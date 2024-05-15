@@ -1,0 +1,4 @@
+.btn.btn-success:active
+{
+    background-color:grey !important; /* add here any color */
+}
